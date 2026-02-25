@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+.odd-number {
+    background-color: lightpink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#second-elements {
+    color: blue;
+    font-size: 36px;
+}
+.third-elements {
+    font-size: 24px;
+}
+#fourth-elements {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
